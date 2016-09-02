@@ -1,0 +1,16 @@
+.header {
+	display: block;
+}
+.mainblock {
+	border-bottom: dotted 2px orange;
+	width: 60%;
+}
+.tovar {
+	float: left;
+	margin: 10px;
+	width: 205px;
+	height: 225px;
+	padding: 2px;
+}
+
+

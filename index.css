@@ -1,0 +1,70 @@
+
+
+body 
+{
+	margin: 0;
+}
+.registration {
+	float: right;
+}
+.href_1 > a {
+	display: block;
+
+}
+.top1
+{
+	border-bottom: 2px orange dotted;
+	height: 1em;
+	padding-bottom: 0.25em;
+}
+
+.mainblock {
+	width: 80%;
+	margin: 0 auto;
+}
+.title_2 {
+	height: 150px;
+	vertical-align: text-top;	
+	width: 100%;
+	border-bottom: dotted 2px orange;
+	
+	
+}
+.description {
+	width: 80%;
+	float: left;
+	
+
+}
+.goods_1 {
+	float: left;
+	
+	font-size: 20px;
+	padding: 10px;
+}
+.tovary {
+	float: right;
+	width: calc(100% - 320px);	
+
+}
+.tovar {
+	float: left;
+	margin: 10px;
+	padding: 2px;
+
+
+}
+header {
+	font-size: 25px;
+	width: 100%;
+  	width: 600px;
+  	border-bottom: dotted 2px orange;
+}
+.information {
+	text-align: center;
+}
+
+a:active a:link a:hover a:visited {
+	color: orange;
+}
+
