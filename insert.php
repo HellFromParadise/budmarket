@@ -1,10 +1,6 @@
 <?php
 
 $host = "localhost";
-$db = "budmarket";
-$charset = "utf8";
-$user = "root";
-$pass = "aleks16";
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
 $pdo = new PDO($dsn, $user, $pass);
 
